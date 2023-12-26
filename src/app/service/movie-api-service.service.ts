@@ -8,8 +8,8 @@ import { Observable } from 'rxjs';
 export class MovieApiServiceService {
   constructor(private http: HttpClient) {}
 
-  baseur1 = 'https://api.themoviedb.org/3';
-  apikey = '59ae25173a6fce82634b550b92b3f333';
+  //baseur1 = 'https://api.themoviedb.org/3';
+  //apikey = 'Create an account on moviedb api , and get an API key ';
 
   //bannerapidata
 
